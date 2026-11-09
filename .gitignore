@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller / build outputs
+build/
+dist/
+*.exe
+*.manifest
+*.pkg
+
+# Vendor specification PDF (SICK manual - not redistributed in this repository)
+*im0064865*.pdf
+
+# Runtime / generated user data
+settings.json
+hiperface_log_*.txt
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
