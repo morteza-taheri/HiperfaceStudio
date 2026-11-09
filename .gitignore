@@ -27,3 +27,6 @@ hiperface_log_*.txt
 Thumbs.db
 .idea/
 .vscode/
+
+# Local assistant workspace data (not part of the project)
+.workbuddy-ai/
